@@ -1,0 +1,11 @@
+{
+    "name": "ellipsis-sass",
+    "version": "1.0.4",
+    "description": "Ellipsis Sass Project Files",
+    "author": "S. Francis",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tachyon1337/ellipsis-sass.git"
+    }
+
+}
